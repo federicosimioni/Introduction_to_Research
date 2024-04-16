@@ -1,2 +1,2 @@
-# LCP_ModB
-Assignments and exercises for Laboratory of Computational Physics class 
+# Introduction to Research
+During this internship, the functioning of a specific ionizing radiation detector and its possible use in a context of medical physics was studied. The first part involved setting up the detector, running the data acquisition, and understanding the acquired energy spectra. Then Geant4 software was used with the aim of describing the response of the detector and estimating the efficiency. Finally, real data related to the activity biodistribution of a chelated radionuclide in mice obtained in an experiment for the ISOLPHARM project was analyzed.
